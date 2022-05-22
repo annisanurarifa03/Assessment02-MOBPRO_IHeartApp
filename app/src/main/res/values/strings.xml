@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Assessment2_IHeart</string>
+    <string name="introText">Aplikasi IHeart adalah aplikasi untuk menghitung denyut nadi berbasis mobile.</string>
+    <string name="denyut">Jumlah Denyut (selama 15 detik)</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="nonAtlet">Non Atlet</string>
+    <string name="atlet">Atlet</string>
+    <string name="jenis">Kamu seorang?</string>
+    <string name="lihat_saran">Lihat Saran</string>
+    <string name="detakJantung_x">Detak Jantungmu: %1$.2f bpm</string>
+    <string name="normal">Normal</string>
+    <string name="cepat">Cepat</string>
+    <string name="lambat">Lambat</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <string name="denyut_invalid">Berat tidak boleh kosong.</string>
+    <string name="tipe_invalid">Mohon pilih salah satu!</string>
+
+    <string name="judul_normal">Detak Jantung Normal</string>
+    <string name="judul_cepat">Detak Jantung Cepat</string>
+    <string name="judul_lambat">Detak Jantung Lambat</string>
+    <string name="saran_normal">Yay, detak jantungmu termasuk normal. Pertahankan ya! Agar tetap terjaga,
+    jangan lupa berolahraga dan atur pola makan serta tidurmu ya! Stay Healthy!</string>
+    <string name="saran_cepat">
+Ketika jantung kamu berdetak cepat, jantung kamu bekerja terlalu keras sehingga tidak cukup waktu mengisi dengan darah atau memompanya ke seluruh tubuh.
+        Maka dari itu, cobalah lebih banyak beristirahat, kurangi kopi atau kafein lainnya, serta jangan merokok ya!
+        Jangan lupa untuk melakukan medical check-up untuk penanganan lebih dini. </string>
+    <string name="saran_lambat">Ketika jantung kamu berdetak lambat, terdapat kemungkinan mengalami kerusakan jaringan jantung akibat usia atau serangan jantung,
+tekanan darah tinggi, masalah jantung bawaan, tiroid kurang aktif, gangguan tidur, gangguan radang, atau obat-obatan.
+    Segera periksakan ke dokter ya!</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">IHeart merupakan sebuah aplikasi Android untuk
+menghitung denyut nadi berbasis mobile sehingga seseorang dapat mengetahui keadaan jantung dan
+        dapat mendeteksi sebuah gangguan jantung lebih awal.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Denyut Jantung: %1$s /15s \nDetak Jantung: %2$s
+bpm\nTipe: %3$s\n%4$s</string>
+
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">histori</string>
+    <string name="hasil_x">Detak Jantung : %1$.2f - %2$s bpm</string>
+    <string name="hapus_histori">hapus_histori</string>
+
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="data_x">Denyut Jantung/15s: %1$.1f - Tipe: %2$s</string>
+</resources>
