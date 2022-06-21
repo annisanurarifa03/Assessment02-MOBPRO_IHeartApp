@@ -4,13 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/drawable/ic_baseline_broken_image_24.xml" value="0.1" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.1" />
+        <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.1" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/fragment_about.xml" value="0.1621376811594203" />
-        <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/fragment_histori.xml" value="0.16621376811594202" />
+        <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/fragment_foodrink.xml" value="0.18" />
+        <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/fragment_histori.xml" value="0.4083333333333333" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/fragment_hitung.xml" value="0.14" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/fragment_saran.xml" value="0.25" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/item_histori.xml" value="0.16621376811594202" />
+        <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/layout/list_item.xml" value="0.21" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/menu/histori_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Rifa/KULIAH RIFA/SEMESTER 4/Mobro/ASSESSMENT2_IHEART/app/src/main/res/menu/options_menu.xml" value="0.2" />
       </map>

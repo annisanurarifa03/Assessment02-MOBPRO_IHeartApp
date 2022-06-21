@@ -13,7 +13,7 @@
     <string name="cepat">Cepat</string>
     <string name="lambat">Lambat</string>
     <string name="kategori_x">Kategori: %1$s</string>
-    <string name="denyut_invalid">Berat tidak boleh kosong.</string>
+    <string name="denyut_invalid">Jumlah denyut tidak boleh kosong.</string>
     <string name="tipe_invalid">Mohon pilih salah satu!</string>
 
     <string name="judul_normal">Detak Jantung Normal</string>
@@ -46,4 +46,14 @@ bpm\nTipe: %3$s\n%4$s</string>
     <string name="hapus">Hapus</string>
     <string name="batal">Batal</string>
     <string name="data_x">Denyut Jantung/15s: %1$.1f - Tipe: %2$s</string>
+
+
+    <string name="foodrink">Makanan/Minuman Sehat</string>
+
+    <string name="message">%1$s untuk kesehatan jantung yang baik!</string> <!-- saat diklik-->
+    <string name="koneksi_error">Koneksi error!</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data makanan/minuman sehat otomatis</string>
+    <string name="notif_title">Ada makanan/minuman sehat baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
 </resources>

@@ -19,11 +19,14 @@
         <action
             android:id="@+id/action_hitungFragment_to_historiFragment"
             app:destination="@id/historiFragment" />
+        <action
+            android:id="@+id/action_hitungFragment_to_foodrinkFragment"
+            app:destination="@id/foodrinkFragment" />
     </fragment>
     <fragment
         android:id="@+id/saranFragment"
         android:name="org.d3if6706201141.assessment2_iheart.ui.SaranFragment"
-        android:label="SaranFragment" >
+        android:label="SaranFragment"
         tools:layout="@layout/fragment_saran">
 
         <argument
@@ -38,4 +41,8 @@
         android:id="@+id/historiFragment"
         android:name="org.d3if6706201141.assessment2_iheart.ui.histori.HistoriFragment"
         android:label="HistoriFragment" />
+    <fragment
+        android:id="@+id/foodrinkFragment"
+        android:name="org.d3if6706201141.assessment2_iheart.ui.foodrink.FoodrinkFragment"
+        android:label="FoodrinkFragment" />
 </navigation>

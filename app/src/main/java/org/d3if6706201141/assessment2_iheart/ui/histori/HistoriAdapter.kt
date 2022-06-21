@@ -1,12 +1,8 @@
 package org.d3if6706201141.assessment2_iheart.ui.histori
 
-import android.annotation.SuppressLint
 import android.graphics.drawable.GradientDrawable
-import android.icu.text.SimpleDateFormat
-import android.os.Build
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import androidx.annotation.RequiresApi
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
@@ -16,6 +12,7 @@ import org.d3if6706201141.assessment2_iheart.databinding.ItemHistoriBinding
 import org.d3if6706201141.assessment2_iheart.db.IHeartEntity
 import org.d3if6706201141.assessment2_iheart.model.KategoriDetakJantung
 import org.d3if6706201141.assessment2_iheart.model.iheartApp
+import java.text.SimpleDateFormat
 import java.util.*
 
 class HistoriAdapter : ListAdapter<IHeartEntity, HistoriAdapter.ViewHolder>(DIFF_CALLBACK) {

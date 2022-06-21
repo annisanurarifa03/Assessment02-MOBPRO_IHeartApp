@@ -3,7 +3,6 @@ package org.d3if6706201141.assessment2_iheart.ui.hitung
 import android.content.Intent
 import android.os.Bundle
 import android.text.TextUtils
-import android.util.Log
 import android.view.*
 import android.widget.Toast
 import androidx.fragment.app.Fragment
@@ -38,8 +37,12 @@ class HitungFragment : Fragment() {
             }
             R.id.menu_about -> {
                 findNavController().navigate(
-                    R.id.action_hitungFragment_to_aboutFragment
-                )
+                    R.id.action_hitungFragment_to_aboutFragment)
+                return true
+            }
+            R.id.menu_foodrink -> {
+                findNavController().navigate(
+                    R.id.action_hitungFragment_to_foodrinkFragment)
                 return true
             }
         }
